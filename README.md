@@ -83,3 +83,10 @@ Outputs:
     Value:
       Ref: imageBucket
 ```
+
+## 무엇을 알아야 할 수 있을 까요?
+
+- Cloud Formation을 알아야 쉽게 사용 가능합니다.
+- Cloud Formation은 Json 기반으로 클라우드 리소스에 대해서 Template을 만들고, 이를 배포 할 수 있는 컨셉입니다.
+
+- CloudFormation 디렉터리에 해당 내용을 자세히 설명합니다.
